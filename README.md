@@ -17,6 +17,7 @@ A simple and responsive web application built using HTML, CSS, and JavaScript to
 ✅ Clean and modern responsive design
 
 💻 Technologies Used
+
 HTML5
 
 CSS3
